@@ -1,11 +1,9 @@
 def display_board
-  lines = "   |   |   "
-  rows =  " -----------"
-  puts lines
-  puts rows
-  puts lines
-  puts rows
-  puts lines
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
 end
 
 display_board
